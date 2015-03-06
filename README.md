@@ -7,4 +7,4 @@
 ![alt tag](https://raw.github.com/LinyinWu/imagesOfGameOfThrones/master/screenshot/to/Arya Stark.png)
 ![alt tag](https://raw.github.com/LinyinWu/imagesOfGameOfThrones/master/screenshot/to/Ygritte.png)
 ![alt tag](https://raw.github.com/LinyinWu/imagesOfGameOfThrones/master/screenshot/to/Daenerys Targaryen.png)
-
+![My image](LinyinWu.github.com/imagesOfGameOfThrones/screenshot/Menu.png)
